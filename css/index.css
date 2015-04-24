@@ -1,0 +1,110 @@
+
+
+
+body {
+	background-color: #A9D0F5;
+}
+
+
+
+.centrar {
+		position: absolute;
+		top:50%;
+		left:50%;
+		width:300px;
+		margin-left:-150px;
+		height:300px;
+		margin-top:-150px;
+		padding:5px;
+}
+
+
+
+input {
+	border: none; 
+    border:solid 2px #000;
+	border-radius: 5px;
+	width: 100% 
+}
+
+
+.botonDerecha {
+	width : 20%;
+	float : right;
+	background-color: #E34234;
+	color: white;
+}
+
+
+
+.botonIzquierda {
+	float : left;
+	background-color: #E34234;
+	color: white;
+}
+
+
+
+.fondoVerde {
+	border: none; 
+    border:solid 2px #aaa;
+	border-radius: 5px;
+	background-color: #01DF74;
+}
+
+
+
+#anadirEnlaceForm {
+	background-color: #A9D0F5;
+	border:solid 2px #000;
+}
+
+
+
+.anchoMedio {
+	width : 70%;
+}
+
+
+
+
+#resultados {
+	padding: 10px;
+}
+
+#resultados div {
+	border: none; 
+    border:solid 2px #aaa;
+	border-radius: 10px;
+	background-color: #fff;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+#resultados div h4 {
+	color : blue;
+}
+
+
+
+a {
+ cursor: pointer; 
+ color: blue; 
+}
+
+
+
+.paginas {
+	position: absolute;
+	top:80%;
+	left:50%;
+	width:300px;
+	margin-left:-150px;
+	height:300px;
+	padding:5px;
+}
+
+.paginas ul li {
+   display: inline; 
+}
+
